@@ -1,0 +1,8 @@
+node_modules
+dist
+.next
+electron
+*.dmg
+*.exe
+*.AppImage
+public/icon.icns
